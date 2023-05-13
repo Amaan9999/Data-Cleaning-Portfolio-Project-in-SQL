@@ -1,2 +1,2 @@
 # Data-Cleaning-Portfolio-Project-in-SQL
-In this project I did complete data cleaning on Nashville Housing Dataset using SQL. I performed update table , alter table operations, Joins ,various string functions, created a CTE etc in order to perform data cleaning.
+In this project I did complete data cleaning on Nashville Housing Dataset using SQL. The process of data cleaning (also called data cleansing) involves identifying any inaccuracies in a dataset and then fixing them. It’s the first step in any analysis and it includes deleting data, updating data, and finding inconsistencies or things that just don’t make sense. I performed update table , alter table operations, Joins ,various string functions, created a CTE etc. in order to perform data cleaning.
